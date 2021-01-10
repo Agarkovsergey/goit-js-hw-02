@@ -23,4 +23,4 @@ while(true) {
         continue;
     }
     numbers.push(input)
-} 
+}
